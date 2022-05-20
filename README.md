@@ -14,7 +14,7 @@ posts a meme from /r/prequelmemes
 
 #### No swearing!
 bot will respond with a gif of the very nice and very evil Danhausen of AEW informing the user to not swear! The bot is a little sensitive right now,
-I am to fix that in time :)
+I aim to fix that in time :)
 
 ![Danhausen](https://github.com/ElizabethNorman/ElizaBot/blob/main/dangifs/dan2.gif)
 
